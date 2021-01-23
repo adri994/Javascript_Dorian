@@ -1,0 +1,1 @@
+let numero=3,string="hola";console.log(numero),console.log(string);

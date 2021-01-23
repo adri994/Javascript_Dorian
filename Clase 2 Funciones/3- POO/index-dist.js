@@ -1,0 +1,1 @@
+"use strict";let cadena="Hola mundo";console.log(cadena.length);

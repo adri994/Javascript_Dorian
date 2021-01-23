@@ -1,0 +1,1 @@
+let number1=5,number2=2;const nombre="Adrian";let a=10;a+=1,console.log(a),a-=1,console.log(a),a*=2,console.log(a),a/=2,console.log(a),a%=2,console.log(a);
